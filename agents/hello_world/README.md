@@ -1,6 +1,6 @@
 # Hello World Graph
 
-## Objetives
+## Objectives
 
 1. Understand and define the *AgentState* structure
 2. Create simple node functions to process and update state
